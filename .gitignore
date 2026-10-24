@@ -1,6 +1,7 @@
 # Resux & Nitro build artifacts
 .resux
-.resux-nitro
+.resux-nitro/*
+!.resux-nitro/handler.ts
 .nitro
 .output
 dist
