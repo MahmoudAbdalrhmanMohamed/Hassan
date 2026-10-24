@@ -1,0 +1,27 @@
+{
+  "name": "el-hassan-mohamed-resux-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Resux Resume-First Portfolio for El Hassan Mohamed Abd Alla Abd ElGhani \u2014 Food Safety & Quality Assurance Specialist (ISO 22000:2018, ISO 50001, ISO 14001, HACCP, PRPs, GMP, GHP)",
+  "type": "module",
+  "scripts": {
+    "dev": "resux dev",
+    "build": "resux build",
+    "start": "resux start",
+    "preview": "resux preview"
+  },
+  "dependencies": {
+    "resuxjs": "github:MahmoudAbdalrhmanMohamed/resux",
+    "vue": "^3.5.43",
+    "h3": "^1.15.11",
+    "nitropack": "^2.13.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "typescript": "^5.9.3",
+    "vite": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}
