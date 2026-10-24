@@ -1,3 +1,6 @@
+process.env.RESUX_HALAL_REPORT_SIGNING_SECRET =
+  process.env.RESUX_HALAL_REPORT_SIGNING_SECRET || "resux-halal-report-secret-32-chars-minimum-token-abc123"
+
 export default defineResuxConfig({
   deploy: {
     target: "auto"
