@@ -23,11 +23,11 @@
 - **ICDL**: Microsoft Office Applications (Word, Excel, PowerPoint)
 
 ## Practical Experience & Projects
-1. **Food Safety System Design – Training Project**: Designed end-to-end food safety systems, conducted biological/chemical/physical hazard identification, established CCPs and control measures, and executed nonconformity problem-solving for food manufacturing lines.
-2. **Quality and Food Safety Institute**: Completed theoretical and practical training in ISO 22000:2018, ISO 50001:2018, ISO 14001, HACCP, PRPs, GMP, and GHP.
-3. **Al-Sad Poultry Production Farms (Egypt) — Poultry Production Trainee**: Hands-on training in poultry production operations, farm management, and biosecurity practices.
+1. **Food Safety System Design – Training Project**: Engineered an end-to-end Food Safety Plan model for processing lines, established CCP critical limits, and formulated CAPA workflows for manufacturing deviations.
+2. **Quality and Food Safety Institute**: Mastered compliance frameworks and auditing principles across ISO 22000:2018, ISO 50001, ISO 14001, PRPs, and GMP/GHP standards.
+3. **Al-Sad Poultry Production Farms (Egypt) — Poultry Production Trainee**: Supported daily flock management, production line workflows, and strict farm biosecurity protocols.
 4. **LANS Academy (2022–2023) — Sales Representative (Chat Sales)**: Promoted medical analysis courses, advised prospective students, and supported marketing operations.
-5. **Talabat (2021–2022)**: Built high-velocity communication, time management, and problem-solving skills.
+5. **Talabat (2021–2022)**: Handled order tracking, delivery logistics, and prompt customer issue resolution under tight time constraints.
 
 ## Direct Downloads
 - PDF Resume: /El_Hassan_Mohamed_CV.pdf

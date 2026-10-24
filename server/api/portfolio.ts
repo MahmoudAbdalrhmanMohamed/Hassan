@@ -11,7 +11,7 @@ export default defineEventHandler(() => {
       degree: "Bachelor's Degree in Agriculture (Bachelor of Agriculture)",
       university: "Ain Shams University (ASU)",
       graduationYear: 2024,
-      summary: "Agriculture graduate with professional training in Food Safety and Quality Management Systems. Completed theoretical and practical training in ISO standards, HACCP, PRPs, GMP, and GHP, including system design, hazard analysis, problem-solving, and food safety procedures. Seeking an entry-level opportunity in Quality Assurance, Quality Control, or Food Safety within the food manufacturing industry."
+      summary: "Agriculture graduate specializing in Food Safety and Quality Assurance (QA/QC), equipped with practical expertise in ISO standards (22000:2018, 50001:2018, 14001), HACCP, GMP, and GHP guidelines. Proficient in prerequisite programs (PRPs), biological and chemical risk assessments, standard operating procedures (SOPs), and audit compliance. Seeking an entry-level Quality Assurance, Quality Control, or Food Safety role in food manufacturing."
     },
     standards: [
       { code: "ISO 22000:2018", name: "Food Safety Management Systems", category: "International Standard" },
@@ -34,8 +34,8 @@ export default defineEventHandler(() => {
         organization: "Quality and Food Safety Institute",
         period: "2024",
         highlights: [
-          "Completed theoretical and practical training in food safety and quality management systems (ISO 22000:2018, ISO 50001:2018, ISO 14001, HACCP, PRPs, GMP, and GHP).",
-          "Applied food safety concepts through practical projects involving system design, hazard analysis, problem-solving, and food safety procedures."
+          "Mastered compliance frameworks and auditing principles across ISO 22000:2018, ISO 50001:2018, ISO 14001, PRPs, and Good Manufacturing Practices (GMP/GHP).",
+          "Evaluated manufacturing workflows through simulated plant scenarios, assessing critical contamination risks and establishing preventive controls to satisfy regulatory food hygiene standards."
         ]
       },
       {
@@ -43,8 +43,8 @@ export default defineEventHandler(() => {
         organization: "Al-Sad Poultry Production Farms – Egypt",
         period: "Practical Training",
         highlights: [
-          "Completed practical training in poultry production operations.",
-          "Gained practical exposure to poultry farm management, biosecurity, and production practices."
+          "Supported daily production workflows, flock monitoring, and housing management in an active commercial poultry facility.",
+          "Implemented strict farm biosecurity protocols, sanitation routines, and disease prevention measures to ensure flock health and biosafety compliance."
         ]
       },
       {
@@ -61,7 +61,7 @@ export default defineEventHandler(() => {
         organization: "Talabat",
         period: "2021 – 2022",
         highlights: [
-          "Developed communication, time management, and problem-solving skills in a fast-paced work environment."
+          "Handled order tracking and live customer inquiries in a high-volume delivery environment, resolving order discrepancies and delivery exceptions under tight time constraints."
         ]
       }
     ],
@@ -69,9 +69,9 @@ export default defineEventHandler(() => {
       {
         title: "Food Safety System Design – Training Project",
         bullets: [
-          "Participated in practical exercises involving food safety system design.",
-          "Practiced identifying potential food safety hazards and determining appropriate control measures.",
-          "Worked on simulated food safety scenarios and problem-solving procedures for food manufacturing operations."
+          "Engineered a comprehensive Food Safety Plan model for food processing lines, developing operational flowcharts, PRPs, and hazard evaluation matrices.",
+          "Identified Critical Control Points (CCPs) across biological, chemical, and physical parameters, establishing strict critical limits and continuous monitoring mechanisms.",
+          "Formulated root-cause investigation workflows and Corrective and Preventive Action (CAPA) protocols to resolve simulated manufacturing nonconformities."
         ]
       }
     ],
@@ -93,7 +93,7 @@ export default defineEventHandler(() => {
       "Prerequisite Programs (PRPs)",
       "Good Manufacturing Practices (GMP)",
       "Good Hygiene Practices (GHP)",
-      "Food Safety Problem-Solving",
+      "Root Cause Analysis (RCA) & CAPA Procedures",
       "Food Safety Procedures and Documentation",
       "Corrective Actions and Nonconformity Handling"
     ],

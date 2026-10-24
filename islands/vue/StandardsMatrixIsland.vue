@@ -24,7 +24,7 @@ const filtered = computed(() => {
 </script>
 
 <template>
-  <div class="island-card">
+  <div id="standards" class="island-card">
     <div class="island-header">
       <h2>Core Standards &amp; Food Safety Programs</h2>
       <div class="filter-bar">
