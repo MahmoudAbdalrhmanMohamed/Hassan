@@ -19,7 +19,8 @@ export default defineResuxConfig({
         { name: "geo.region", content: "EG-GZ" },
         { name: "geo.placename", content: "Giza, Egypt" },
         { name: "geo.position", content: "30.0131;31.2089" },
-        { name: "ICBM", content: "30.0131, 31.2089" }
+        { name: "ICBM", content: "30.0131, 31.2089" },
+        { name: "google-site-verification", content: "googlecc11456c182b76e5" }
       ],
       link: [
         { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
