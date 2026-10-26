@@ -2,22 +2,24 @@
   "name": "el-hassan-mohamed-resux-portfolio",
   "version": "1.0.0",
   "private": true,
-  "description": "Resux Resume-First Portfolio for El Hassan Mohamed Abd Alla Abd ElGhani \u2014 Food Safety & Quality Assurance Specialist (ISO 22000:2018, ISO 50001, ISO 14001, HACCP, PRPs, GMP, GHP)",
+  "description": "Resux Resume-First Portfolio for El Hassan Mohamed Abd Alla Abd ElGhani — Food Safety & Quality Assurance Specialist (ISO 22000:2018, ISO 50001, ISO 14001, HACCP, PRPs, GMP, GHP)",
   "type": "module",
   "scripts": {
     "dev": "resux dev",
+    "build:tailwind": "tailwindcss -c ./tailwind.config.cjs -i ./tailwind-input.css -o ./public/standalone.css --minify",
     "build": "resux build",
     "start": "resux start",
     "preview": "resux preview"
   },
   "dependencies": {
-    "resuxjs": "0.4.0-beta.6",
-    "vue": "^3.5.43",
     "h3": "^1.15.11",
-    "nitropack": "^2.13.4"
+    "nitropack": "^2.13.4",
+    "resuxjs": "0.4.0-beta.6",
+    "vue": "^3.5.43"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.10",
+    "tailwindcss": "^3.4.17",
     "typescript": "^5.9.3",
     "vite": "^8.2.2"
   },
