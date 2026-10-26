@@ -117,6 +117,7 @@ useSeoMeta({
           fetchpriority="high"
           format="webp"
           quality="85"
+          sizes="(max-width: 640px) 100vw, 640px"
           priority
         />
         <div class="visual-meta">
@@ -155,7 +156,7 @@ useSeoMeta({
 
     <!-- Interactive Standards Matrix Island -->
     <section class="vue-panel">
-      <VueIsland name="StandardsMatrixIsland" :props="{ initialFilter: 'all' }" />
+      <VueIsland name="StandardsMatrixIsland" :props="{ initialFilter: 'all' }" trigger="visible" />
     </section>
 
     <!-- Experience & Projects Section Grid -->
