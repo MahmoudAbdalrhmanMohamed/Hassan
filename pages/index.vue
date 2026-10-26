@@ -53,7 +53,7 @@ useSeoMeta({
         </p>
 
         <!-- Standards Pills -->
-        <div class="standards-pills">
+        <div class="standards-pills" id="standards">
           <span class="pill-iso">ISO 22000:2018</span>
           <span class="pill-iso">ISO 50001:2018</span>
           <span class="pill-iso">ISO 14001</span>
