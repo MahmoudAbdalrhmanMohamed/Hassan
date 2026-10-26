@@ -115,6 +115,8 @@ useSeoMeta({
           height="360"
           loading="eager"
           fetchpriority="high"
+          format="webp"
+          quality="85"
           priority
         />
         <div class="visual-meta">

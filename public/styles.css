@@ -1077,7 +1077,7 @@ body {
 }
 
 @media print {
-  .nav, .nav-actions, .actions, .filter-bar, .footer {
+  .nav, .nav-actions, .actions, .filter-bar, .footer, .no-print {
     display: none !important;
   }
   body {
