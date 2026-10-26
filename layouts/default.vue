@@ -15,7 +15,7 @@
         </a>
 
         <nav class="nav-links" aria-label="Primary Navigation">
-          <a href="/">Portfolio Overview</a>
+          <a href="/#hero">Portfolio Overview</a>
           <a href="/cv">ATS CV Viewer</a>
           <a href="/#standards">ISO / HACCP Matrix</a>
         </nav>

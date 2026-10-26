@@ -33,7 +33,7 @@ useSeoMeta({
 <template>
   <main class="page">
     <!-- Editorial Hero Section -->
-    <section class="hero">
+    <section class="hero" id="hero">
       <div class="hero-content">
         <p class="eyebrow">
           <span style="display:inline-block; width:7px; height:7px; border-radius:50%; background:var(--accent-forest); margin-right:4px;"></span>
