@@ -26,6 +26,9 @@ export default defineResuxConfig({
         { name: "ICBM", content: "30.0131, 31.2089" }
       ],
       link: [
+        { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+        { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
+        { rel: "apple-touch-icon", href: "/favicon.svg" },
         { rel: "stylesheet", href: "/styles.css" },
         { rel: "canonical", href: "https://elhassan-foodsafety.eg/" }
       ],
