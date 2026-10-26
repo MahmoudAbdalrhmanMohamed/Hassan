@@ -1,26 +1,6 @@
 process.env.RESUX_HALAL_REPORT_SIGNING_SECRET =
   process.env.RESUX_HALAL_REPORT_SIGNING_SECRET || "resux-halal-report-secret-32-chars-minimum-token-abc123"
 
-import fs from "node:fs"
-import path from "node:path"
-import { fileURLToPath } from "node:url"
-
-function loadStylesCss(): string {
-  const candidates = [
-    path.resolve(process.cwd(), "public/styles.css"),
-    path.resolve(process.cwd(), "el-hassan-resux-portfolio/public/styles.css"),
-    fileURLToPath(new URL("./public/styles.css", import.meta.url))
-  ]
-  for (const candidate of candidates) {
-    if (fs.existsSync(candidate)) {
-      return fs.readFileSync(candidate, "utf8")
-    }
-  }
-  return ""
-}
-
-const stylesCss = loadStylesCss()
-
 export default defineResuxConfig({
   deploy: {
     target: "auto"
@@ -45,10 +25,9 @@ export default defineResuxConfig({
         { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
         { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
         { rel: "apple-touch-icon", href: "/favicon.svg" },
+        { rel: "preload", as: "style", href: "/styles.css" },
+        { rel: "stylesheet", href: "/styles.css" },
         { rel: "canonical", href: "https://el-hassan-resux-portfolio.vercel.app/" }
-      ],
-      style: [
-        { children: stylesCss }
       ]
     }
   },

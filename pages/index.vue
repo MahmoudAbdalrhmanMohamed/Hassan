@@ -118,7 +118,6 @@ useSeoMeta({
           format="webp"
           quality="85"
           sizes="(max-width: 640px) 100vw, 640px"
-          priority
         />
         <div class="visual-meta">
           <p class="meta-title">Verified Food Safety Specialist</p>
