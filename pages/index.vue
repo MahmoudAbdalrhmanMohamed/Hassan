@@ -108,7 +108,15 @@ useSeoMeta({
 
       <!-- Right Column: Visual Box -->
       <div class="hero-visual">
-        <img src="/hero-lab.jpg" alt="Sunlit Food Quality Assurance and Safety Laboratory" width="640" height="360" loading="eager" fetchpriority="high" />
+        <ResuxImg
+          src="/hero-lab.jpg"
+          alt="Sunlit Food Quality Assurance and Safety Laboratory"
+          width="640"
+          height="360"
+          loading="eager"
+          fetchpriority="high"
+          priority
+        />
         <div class="visual-meta">
           <p class="meta-title">Verified Food Safety Specialist</p>
           <p class="meta-desc">Ain Shams University (B.Sc. in Agriculture, 2024) • Trained in ISO 22000, HACCP, PRPs, GMP, and GHP • Ready for QA/QC roles in Giza &amp; Greater Cairo.</p>
