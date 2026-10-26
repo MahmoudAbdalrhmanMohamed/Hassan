@@ -1,0 +1,69 @@
+# El Hassan Mohamed Abd Alla Abd ElGhani — Extended Profile & Resume
+
+> Comprehensive structured plain text data designed for Large Language Models (LLMs), AI Agent search, and technical recruiters.
+
+## Executive Summary
+El Hassan Mohamed Abd Alla Abd ElGhani is an Agriculture graduate (B.Sc., Ain Shams University, 2024) trained in Food Safety and Quality Assurance (QA/QC) across 3 core ISO standards (ISO 22000:2018, ISO 50001:2018, ISO 14001), HACCP, and GMP/GHP frameworks. Experienced in conducting biological and chemical hazard analyses, designing 6+ process flowcharts, drafting Standard Operating Procedures (SOPs), and auditing Prerequisite Programs (PRPs) across food processing models and commercial poultry operations.
+
+## Contact Information
+- Full Name: El Hassan Mohamed Abd Alla Abd ElGhani
+- Location: Giza, Egypt
+- Phone: +201143125143
+- Email: hm6574062@gmail.com
+- Portfolio Website: https://el-hassan-resux-portfolio.vercel.app
+- ATS Resume: https://el-hassan-resux-portfolio.vercel.app/cv
+- PDF CV: https://el-hassan-resux-portfolio.vercel.app/El_Hassan_Mohamed_CV.pdf
+- DOCX CV: https://el-hassan-resux-portfolio.vercel.app/El_Hassan_Mohamed_CV.docx
+
+## Education
+- Degree: Bachelor's Degree in Agriculture (Bachelor of Agriculture)
+- University: Ain Shams University (ASU) – Egypt
+- Graduation Year: 2024
+
+## Work Experience
+1. Food Quality and Safety Trainee — Quality and Food Safety Institute
+   - Audited quality compliance frameworks and sanitation procedures across 3 international standards (ISO 22000:2018, ISO 50001:2018, ISO 14001), PRPs, and Good Manufacturing Practices (GMP/GHP).
+   - Spearheaded hazard assessments across 5+ simulated plant production lines, identifying 12+ biological and chemical contamination risks and establishing preventive controls to achieve 100% food hygiene compliance.
+
+2. Poultry Production Trainee — Al-Sad Poultry Production Farms (Egypt)
+   - Supervised daily production workflows, flock health inspections, and environmental housing controls for commercial batches of 10,000+ birds in an active poultry facility.
+   - Executed farm biosecurity protocols, 3-stage sanitation routines, and disease prevention measures across 4+ housing units, eliminating cross-contamination incidents and maintaining a 98%+ flock survival rate.
+
+3. Sales Representative (Chat Sales) — LANS Academy (2022 – 2023)
+   - Advised 40+ prospective students weekly via live chat on medical analysis curricula, converting 20% of inquiries into paid course enrollments.
+   - Coordinated digital outreach campaigns across 5+ training programs in collaboration with a 4-member sales team, increasing student registration volume by 25%.
+
+4. Customer Operations & Dispatch Support — Talabat (2021 – 2022)
+   - Resolved 80+ live customer and dispatch inquiries daily in a high-volume delivery environment, cutting average resolution time to under 3 minutes and achieving a 95%+ satisfaction score.
+   - Directed real-time order recovery across 50+ restaurant partners and delivery couriers per shift, reducing late-delivery exceptions by 15%.
+
+## Academic & Practical Projects
+- Project: Food Safety System Design (Training Project)
+  - Engineered a complete Food Safety Plan (HACCP/FSMS) for multi-stage food processing lines, developing 6 operational flowcharts, prerequisite programs (PRPs), and hazard analysis matrices.
+  - Established 4 Critical Control Points (CCPs) across biological, chemical, and physical parameters, defining measurable critical limits and 100% continuous monitoring logs.
+  - Designed root-cause analysis (RCA) workflows and 8 Corrective and Preventive Action (CAPA) protocols to eliminate recurring manufacturing nonconformities.
+
+## Certifications
+- ISO 22000:2018 – Food Safety Management Systems (FSMS)
+- ISO 50001:2018 – Energy Management Systems (EnMS)
+- ISO 14001 – Environmental Management Systems (EMS)
+- HACCP – Hazard Analysis and Critical Control Points
+- PRPs – Prerequisite Programs
+- GMP – Good Manufacturing Practices
+- GHP – Good Hygiene Practices
+- Food Quality and Safety Training Program – Quality and Food Safety Institute
+- ICDL – Microsoft Office Applications (Word, Excel, PowerPoint)
+
+## Technical Skills
+- HACCP & Hazard Analysis
+- Biological & Chemical Risk Assessment
+- Food Safety Management Systems (ISO 22000:2018)
+- Prerequisite Programs (PRPs)
+- Good Manufacturing Practices (GMP)
+- Good Hygiene Practices (GHP)
+- Environmental & Energy Management (ISO 14001 & ISO 50001)
+- Root Cause Analysis (RCA) & CAPA Procedures
+- Standard Operating Procedures (SOPs) & Quality Auditing
+- Nonconformity Control & Quality Inspection
+- Computer Skills: ICDL, Microsoft Excel, Word, PowerPoint
+- Languages: Arabic (Native), English (Advanced)

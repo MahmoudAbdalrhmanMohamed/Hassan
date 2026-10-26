@@ -16,4 +16,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://elhassan-foodsafety.eg/sitemap.xml
+Sitemap: https://el-hassan-resux-portfolio.vercel.app/sitemap.xml

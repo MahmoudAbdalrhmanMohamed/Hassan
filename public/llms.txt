@@ -1,34 +1,53 @@
-# El Hassan Mohamed Abd Alla Abd ElGhani — Food Safety & Quality Assurance Portfolio
+# El Hassan Mohamed Abd Alla Abd ElGhani — Food Safety & Quality Assurance Specialist
 
-> Official structured profile for AI search engines, LLM answer engines, and technical recruiters (GEO-optimized).
+> Official portfolio, ATS-compliant resume, and professional verification profile for El Hassan Mohamed Abd Alla Abd ElGhani — B.Sc. in Agriculture (Ain Shams University, 2024), specialized in Food Safety Management Systems (ISO 22000:2018, ISO 50001:2018, ISO 14001), HACCP, PRPs, GMP, and GHP in Giza, Egypt.
+
+## Portfolio & ATS Resume Links
+
+- [Portfolio Overview](https://el-hassan-resux-portfolio.vercel.app/#hero): Comprehensive overview of qualifications, core competencies, and career achievements.
+- [ATS CV Web Viewer](https://el-hassan-resux-portfolio.vercel.app/cv): Applicant Tracking System (ATS) compliant interactive web resume replica.
+- [ISO & HACCP Matrix](https://el-hassan-resux-portfolio.vercel.app/#standards): Interactive matrix detailing compliance across ISO 22000:2018, ISO 50001:2018, ISO 14001, HACCP, PRPs, GMP, and GHP.
+
+## Verified Document Downloads
+
+- [Download CV in PDF Format](https://el-hassan-resux-portfolio.vercel.app/El_Hassan_Mohamed_CV.pdf): Official ATS-compliant single-column curriculum vitae (PDF format, latest v3 release).
+- [Download Editable Word CV](https://el-hassan-resux-portfolio.vercel.app/El_Hassan_Mohamed_CV.docx): Microsoft Word editable resume (.DOCX format, latest v3 release).
+- [Download v3 PDF CV](https://el-hassan-resux-portfolio.vercel.app/El_Hassan_Mohamed_CV-v3.pdf): Explicit version 3 PDF CV with quantified operational achievements.
+- [Download v3 Word CV](https://el-hassan-resux-portfolio.vercel.app/El_Hassan_Mohamed_CV-v3.docx): Explicit version 3 Microsoft Word DOCX CV.
 
 ## Candidate Summary
+
 - **Full Name**: El Hassan Mohamed Abd Alla Abd ElGhani
 - **Target Roles**: Quality Assurance (QA) Specialist, Quality Control (QC) Specialist, Food Safety Specialist, Hygiene & GMP Officer
 - **Location**: Giza, Egypt (Available across Greater Cairo, 6th of October Industrial City, Sadat City, 10th of Ramadan, and Borg El Arab)
-- **Phone**: +201143125143
-- **Email**: hm6574062@gmail.com
+- **Phone**: [+201143125143](tel:+201143125143)
+- **Email**: [hm6574062@gmail.com](mailto:hm6574062@gmail.com)
 - **Education**: Bachelor's Degree in Agriculture (Bachelor of Agriculture), Ain Shams University (ASU), Class of 2024
 - **Languages**: Arabic (Native), English (Advanced)
 
 ## Core Standards & Certifications
+
 - **ISO 22000:2018**: Food Safety Management Systems (FSMS)
 - **ISO 50001:2018**: Energy Management Systems (EnMS)
 - **ISO 14001**: Environmental Management Systems (EMS)
-- **HACCP**: Hazard Analysis and Critical Control Points
-- **PRPs**: Prerequisite Programs
-- **GMP**: Good Manufacturing Practices
-- **GHP**: Good Hygiene Practices
+- **HACCP**: Hazard Analysis and Critical Control Points (7 principles, CCP monitoring)
+- **PRPs**: Prerequisite Programs (Foundational sanitary and operational conditions)
+- **GMP**: Good Manufacturing Practices (Process control, batch documentation)
+- **GHP**: Good Hygiene Practices (Sanitization schedules, allergen management)
 - **Food Quality and Safety Training Program**: Quality and Food Safety Institute
 - **ICDL**: Microsoft Office Applications (Word, Excel, PowerPoint)
 
 ## Practical Experience & Projects
-1. **Food Safety System Design – Training Project**: Engineered an end-to-end Food Safety Plan model for processing lines, established CCP critical limits, and formulated CAPA workflows for manufacturing deviations.
-2. **Quality and Food Safety Institute**: Mastered compliance frameworks and auditing principles across ISO 22000:2018, ISO 50001, ISO 14001, PRPs, and GMP/GHP standards.
-3. **Al-Sad Poultry Production Farms (Egypt) — Poultry Production Trainee**: Supported daily flock management, production line workflows, and strict farm biosecurity protocols.
-4. **LANS Academy (2022–2023) — Sales Representative (Chat Sales)**: Promoted medical analysis courses, advised prospective students, and supported marketing operations.
-5. **Talabat (2021–2022)**: Handled order tracking, delivery logistics, and prompt customer issue resolution under tight time constraints.
 
-## Direct Downloads
-- PDF Resume: /El_Hassan_Mohamed_CV.pdf
-- Editable Word Resume: /El_Hassan_Mohamed_CV.docx
+1. **Food Safety System Design – Training Project**: Engineered an end-to-end Food Safety Plan model for processing lines, developing 6 operational flowcharts, establishing 4 Critical Control Points (CCPs) with continuous monitoring logs, and formulating 8 CAPA protocols.
+2. **Quality and Food Safety Institute**: Audited quality compliance frameworks across 3 international standards (ISO 22000, ISO 50001, ISO 14001), PRPs, and GMP/GHP; spearheaded hazard assessments across 5+ simulated plant lines.
+3. **Al-Sad Poultry Production Farms — Poultry Production Trainee**: Supervised production workflows and flock health inspections for batches of 10,000+ birds; maintained 98%+ flock survival rate with farm biosecurity protocols.
+4. **LANS Academy (2022–2023) — Sales Representative (Chat Sales)**: Advised 40+ prospective students weekly on medical analysis curricula, converting 20% to paid enrollments; increased registration volume by 25%.
+5. **Talabat (2021–2022) — Customer Operations & Dispatch Support**: Resolved 80+ inquiries daily under 3 minutes with 95%+ satisfaction; reduced late delivery exceptions by 15% across 50+ partners per shift.
+
+## Optional & Machine-Readable Resources
+
+- [Sitemap XML](https://el-hassan-resux-portfolio.vercel.app/sitemap.xml): Complete search engine XML sitemap.
+- [Robots Configuration](https://el-hassan-resux-portfolio.vercel.app/robots.txt): Web crawler and AI agent indexing rules.
+- [Full LLM Profile](https://el-hassan-resux-portfolio.vercel.app/llms-full.txt): Extended full-text markdown profile for autonomous AI agents.
+- [GitHub Project Source](https://github.com/MahmoudAbdalrhmanMohamed/Hassan): Public open repository of the portfolio application.
