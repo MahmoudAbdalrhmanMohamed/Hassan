@@ -124,11 +124,21 @@ useSeoMeta({
 
       <!-- Right Column: Visual Box -->
       <div class="hero-visual">
-        <ResuxImg
+        <ResuxPicture
           src="/el-hassan-portrait.jpg"
           alt="El Hassan Mohamed Abd Alla Abd ElGhani — Food Safety &amp; QA/QC Specialist"
           width="887"
           height="1024"
+          :widths="[320, 480, 640, 768, 887]"
+          sizes="(max-width: 900px) 100vw, 37.5vw"
+          :formats="['avif', 'webp']"
+          quality="78"
+          cache="7d"
+          priority
+          preload
+          fetchpriority="high"
+          loading="eager"
+          decoding="async"
         />
         <div class="visual-meta">
           <p class="meta-title">El Hassan Mohamed Abd Alla Abd ElGhani</p>
