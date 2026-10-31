@@ -39,6 +39,8 @@ export default defineResuxConfig({
       location: "Giza, Egypt",
       phone: "+201143125143",
       email: "hm6574062@gmail.com",
+      linkedinUrl: "https://www.linkedin.com/in/alhassan-mohamed-184a8a286/",
+      photoUrl: "/el-hassan-portrait.jpg",
       cvPdfUrl: "/El_Hassan_Mohamed_CV.pdf",
       cvDocxUrl: "/El_Hassan_Mohamed_CV.docx",
       image: {

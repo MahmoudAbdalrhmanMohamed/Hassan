@@ -42,8 +42,10 @@ useSeoMeta({
             <td>
               <div style="font-size: 1.35rem; font-weight: 700; color: #111111;">El Hassan Mohamed Abd Alla Abd ElGhani</div>
               <div style="font-size: 1.05rem; font-weight: 700; color: #111111; margin-top: 2px;">Giza, Egypt &nbsp;+201143125143</div>
-              <div style="margin-top: 2px;">
+              <div style="margin-top: 2px; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
                 <a href="mailto:hm6574062@gmail.com" style="font-size: 0.95rem; color: #1B4332; text-decoration: underline;">hm6574062@gmail.com</a>
+                <span style="color: #666666;">|</span>
+                <a href="https://www.linkedin.com/in/alhassan-mohamed-184a8a286/" target="_blank" rel="noopener noreferrer" style="font-size: 0.95rem; color: #1B4332; text-decoration: underline;">https://www.linkedin.com/in/alhassan-mohamed-184a8a286/</a>
               </div>
             </td>
           </tr>

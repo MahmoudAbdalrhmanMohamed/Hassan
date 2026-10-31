@@ -8,6 +8,8 @@ export default defineEventHandler(() => {
       location: "Giza, Egypt",
       phone: "+201143125143",
       email: "hm6574062@gmail.com",
+      linkedin: "https://www.linkedin.com/in/alhassan-mohamed-184a8a286/",
+      photo: "/el-hassan-portrait.jpg",
       degree: "Bachelor's Degree in Agriculture (Bachelor of Agriculture)",
       university: "Ain Shams University (ASU)",
       graduationYear: 2024,

@@ -8,7 +8,7 @@
       <div class="nav-container">
         <!-- Brand Group -->
         <a href="/" class="brand-group">
-          <div class="brand-monogram">EH</div>
+          <img src="/el-hassan-portrait.jpg" alt="El Hassan Mohamed" class="brand-avatar" />
           <div class="brand-info">
             <span class="brand-name">El Hassan Mohamed</span>
             <span class="brand-role">Food Safety &amp; QA Specialist</span>
@@ -101,6 +101,9 @@
                 <a href="mailto:hm6574062@gmail.com" class="mobile-contact-pill">
                   <span>Email: hm6574062@gmail.com</span>
                 </a>
+                <a href="https://www.linkedin.com/in/alhassan-mohamed-184a8a286/" target="_blank" rel="noopener noreferrer" class="mobile-contact-pill">
+                  <span>LinkedIn Profile</span>
+                </a>
               </div>
             </nav>
           </details>
@@ -115,7 +118,7 @@
         <p><strong>El Hassan Mohamed Abd Alla Abd ElGhani</strong> • B.Sc. in Agriculture (Ain Shams University, 2024)</p>
         <p>Food Safety &amp; Quality Assurance Specialist (ISO 22000:2018, ISO 50001, ISO 14001, HACCP, PRPs, GMP, GHP) • Giza, Egypt</p>
         <p style="margin-top: 0.75rem; font-size: 0.75rem; color: #78716C;">
-          Direct: <a href="tel:+201143125143">+201143125143</a> • Email: <a href="mailto:hm6574062@gmail.com">hm6574062@gmail.com</a> • Powered by <a href="https://github.com/MahmoudAbdalrhmanMohamed/resux" target="_blank" rel="noopener">Resux Framework</a>
+          Direct: <a href="tel:+201143125143">+201143125143</a> • Email: <a href="mailto:hm6574062@gmail.com">hm6574062@gmail.com</a> • LinkedIn: <a href="https://www.linkedin.com/in/alhassan-mohamed-184a8a286/" target="_blank" rel="noopener noreferrer">Profile</a> • Powered by <a href="https://github.com/MahmoudAbdalrhmanMohamed/resux" target="_blank" rel="noopener">Resux Framework</a>
         </p>
       </div>
     </footer>
