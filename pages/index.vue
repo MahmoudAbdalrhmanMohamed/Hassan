@@ -25,7 +25,12 @@ useSeoMeta({
   ],
   ogTitle: "El Hassan Mohamed | Food Safety & Quality Assurance Portfolio",
   ogDescription: "Explore El Hassan Mohamed's Food Safety & QA/QC qualifications, ISO certifications, HACCP system design projects, and downloadable ATS CV.",
+  ogImage: "https://el-hassan-resux-portfolio.vercel.app/el-hassan-portrait.jpg",
+  ogImageAlt: "El Hassan Mohamed — Food Safety & QA/QC Specialist",
+  ogType: "website",
+  ogUrl: "https://el-hassan-resux-portfolio.vercel.app/",
   twitterCard: "summary_large_image",
+  twitterImage: "https://el-hassan-resux-portfolio.vercel.app/el-hassan-portrait.jpg",
   themeColor: "#1B4332"
 })
 </script>
@@ -119,13 +124,18 @@ useSeoMeta({
 
       <!-- Right Column: Visual Box -->
       <div class="hero-visual">
-        <img
+        <ResuxImg
           src="/el-hassan-portrait.jpg"
           alt="El Hassan Mohamed Abd Alla Abd ElGhani — Food Safety &amp; QA/QC Specialist"
           width="640"
           height="740"
-          loading="eager"
+          sizes="(max-width: 900px) 100vw, 640px"
+          format="webp"
+          quality="85"
+          priority
+          preload
           fetchpriority="high"
+          loading="eager"
           decoding="async"
         />
         <div class="visual-meta">
