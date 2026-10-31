@@ -6,6 +6,14 @@ definePageMeta({
 useSeoMeta({
   title: "ATS CV | El Hassan Mohamed — Food Safety & QA/QC Specialist",
   description: "Exact ATS-compliant CV of El Hassan Mohamed Abd Alla Abd ElGhani. Downloadable as PDF and editable Word DOCX.",
+  ogTitle: "ATS CV | El Hassan Mohamed — Food Safety & QA/QC Specialist",
+  ogDescription: "View and download El Hassan Mohamed's ATS-compliant Food Safety and Quality Assurance CV.",
+  ogImage: "https://el-hassan-resux-portfolio.vercel.app/el-hassan-portrait.jpg",
+  ogImageAlt: "El Hassan Mohamed — Food Safety & QA/QC Specialist",
+  ogType: "profile",
+  ogUrl: "https://el-hassan-resux-portfolio.vercel.app/cv",
+  twitterCard: "summary_large_image",
+  twitterImage: "https://el-hassan-resux-portfolio.vercel.app/el-hassan-portrait.jpg",
   themeColor: "#1B4332"
 })
 </script>
