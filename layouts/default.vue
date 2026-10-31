@@ -8,7 +8,19 @@
       <div class="nav-container">
         <!-- Brand Group -->
         <a href="/" class="brand-group">
-          <ResuxImg src="/el-hassan-portrait.jpg" alt="El Hassan Mohamed" class="brand-avatar" width="40" height="40" />
+          <ResuxImg
+            src="/el-hassan-portrait.jpg"
+            alt="El Hassan Mohamed"
+            class="brand-avatar"
+            width="40"
+            height="40"
+            sizes="40px"
+            format="webp"
+            quality="72"
+            cache="7d"
+            loading="eager"
+            decoding="async"
+          />
           <div class="brand-info">
             <span class="brand-name">El Hassan Mohamed</span>
             <span class="brand-role">Food Safety &amp; QA Specialist</span>
