@@ -60,11 +60,11 @@ export default defineResuxConfig({
       ],
       script: [
         {
-          innerHTML: "window.dataLayer=window.dataLayer||[];window.dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});function gtag(){window.dataLayer.push(arguments);}gtag('js',new Date());"
+          src: "https://www.googletagmanager.com/gtag/js?id=G-G1N6SFKGQG",
+          async: true
         },
         {
-          src: "https://www.googletagmanager.com/gtm.js?id=GTM-KP427FVS",
-          async: true
+          innerHTML: "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-G1N6SFKGQG');"
         },
         {
           type: "application/ld+json",
@@ -212,11 +212,6 @@ export default defineResuxConfig({
               }
             ]
           })
-        }
-      ],
-      noscript: [
-        {
-          innerHTML: '<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KP427FVS" height="0" width="0" style="display:none;visibility:hidden"></iframe>'
         }
       ]
     }
