@@ -124,22 +124,19 @@ useSeoMeta({
 
       <!-- Right Column: Visual Box -->
       <div class="hero-visual">
-        <ResuxPicture
-          src="/el-hassan-portrait.jpg"
-          alt="El Hassan Mohamed Abd Alla Abd ElGhani — Food Safety &amp; QA/QC Specialist"
-          width="887"
-          height="1024"
-          :widths="[320, 480, 640, 768, 887]"
-          sizes="(max-width: 900px) 100vw, 37.5vw"
-          :formats="['avif', 'webp']"
-          quality="78"
-          cache="7d"
-          priority
-          preload
-          fetchpriority="high"
-          loading="eager"
-          decoding="async"
-        />
+        <picture>
+          <source type="image/webp" srcset="/el-hassan-portrait.webp" />
+          <img
+            src="/el-hassan-portrait.jpg"
+            alt="El Hassan Mohamed Abd Alla Abd ElGhani — Food Safety &amp; QA/QC Specialist"
+            width="887"
+            height="1024"
+            loading="eager"
+            fetchpriority="high"
+            decoding="async"
+            style="width: 100%; height: auto; aspect-ratio: 887 / 1024; object-fit: cover; border-radius: 1rem;"
+          />
+        </picture>
         <div class="visual-meta">
           <p class="meta-title">El Hassan Mohamed Abd Alla Abd ElGhani</p>
           <p class="meta-desc">Food Safety &amp; QA/QC Specialist • Ain Shams University (B.Sc. in Agriculture, 2024) • Trained in ISO 22000, HACCP, PRPs, GMP &amp; GHP • Ready for QA/QC roles in Giza &amp; Greater Cairo.</p>
