@@ -9,7 +9,8 @@
     "build:tailwind": "tailwindcss -c ./tailwind.config.cjs -i ./tailwind-input.css -o ./public/standalone.css --minify",
     "build": "resux build",
     "start": "resux start",
-    "preview": "resux preview"
+    "preview": "resux preview",
+    "indexnow": "node ./scripts/submit-indexnow.mjs"
   },
   "dependencies": {
     "h3": "^1.15.11",
